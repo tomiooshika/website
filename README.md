@@ -9,6 +9,7 @@
 * Install Jekyll and bundler gems
   * `gem install jekyll bundler`
 * Clone this repo
+* `cd` into this project folder
 * Install gems
   * `bundle install`
 
