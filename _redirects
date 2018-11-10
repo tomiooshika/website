@@ -1,0 +1,2 @@
+# Force HTTPS
+http://get.bcjobs.ca/* https://get.bcjobs.ca/:splat 301!
