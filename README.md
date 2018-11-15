@@ -1,3 +1,9 @@
+# Setup (Windows)
+* Install RubyInstaller: https://rubyinstaller.org/downloads/
+  * Choose the Ruby+Devkit option
+  * When prompted, enable MSYS2 installation
+  * At the end, allow installer to initialize MSYS2 Devkit (`ridk install`)
+
 # Setup (macOS)
 * Update Homebrew: `brew update`
 * Use Ruby version manager
@@ -8,6 +14,8 @@
 * Install and use Ruby version 2.5.3
   * `rbenv install 2.5.3`
   * `rbenv global 2.5.3`
+
+# Setup continued (All OS)
 * Install Jekyll and bundler gems
   * `gem install jekyll bundler`
 * Clone this repo
