@@ -4,7 +4,8 @@
         "_redirects": true,
         "_site": true,
         ".**": true,
-        "Gemfile*": true
+        "Gemfile*": true,
+        "README.md": true
     },
     "editor.tabSize": 2
 }
